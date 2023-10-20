@@ -38,7 +38,7 @@ namespace Eco.Mods.TechTree
 
 
         /// <summary>The amount of calories awarded for eating the food item.</summary>
-        public override float Calories                  => 720;
+        public override float Calories                  => 800;
         /// <summary>The nutritional value of the food item.</summary>
         public override Nutrients Nutrition             => new Nutrients() { Carbs = 20, Fat = 12, Protein = 9, Vitamins = 12};
 
@@ -71,8 +71,8 @@ namespace Eco.Mods.TechTree
                 ingredients: new List<IngredientElement>
                 {
                     new IngredientElement(typeof(CharredPineappleItem), 5, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
-                    new IngredientElement(typeof(BoiledRiceItem), 5, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
-                    new IngredientElement(typeof(ScrapMeatItem), 10, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
+                    new IngredientElement(typeof(BoiledRiceItem), 4, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
+                    new IngredientElement(typeof(ScrapMeatItem), 8, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
                 },
 
                 // Define our recipe output items.
