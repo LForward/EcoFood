@@ -38,7 +38,7 @@ namespace Eco.Mods.TechTree
 
 
         /// <summary>The amount of calories awarded for eating the food item.</summary>
-        public override float Calories                  => 700;
+        public override float Calories                  => 1050;
         /// <summary>The nutritional value of the food item.</summary>
         public override Nutrients Nutrition             => new Nutrients() { Carbs = 15, Fat = 22, Protein = 8, Vitamins = 6};
 
