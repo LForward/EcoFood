@@ -73,7 +73,7 @@ namespace Eco.Mods.TechTree
                     new IngredientElement(typeof(LeavenedDoughItem), 2, typeof(AdvancedBakingSkill), typeof(AdvancedBakingLavishResourcesTalent)),
                     new IngredientElement(typeof(CriminiMushroomsItem), 1, typeof(AdvancedBakingSkill), typeof(AdvancedBakingLavishResourcesTalent)),
                     new IngredientElement(typeof(RawSausageItem), 2, typeof(AdvancedBakingSkill), typeof(AdvancedBakingLavishResourcesTalent)),
-                    new IngredientElement(typeof(SunCheeseItem), 4, typeof(AdvancedBakingSkill), typeof(AdvancedBakingLavishResourcesTalent)),
+                    new IngredientElement(typeof(SunCheeseItem), 3, typeof(AdvancedBakingSkill), typeof(AdvancedBakingLavishResourcesTalent)),
                     new IngredientElement(typeof(TomatoItem), 2, typeof(AdvancedBakingSkill), typeof(AdvancedBakingLavishResourcesTalent)),
                 },
 
