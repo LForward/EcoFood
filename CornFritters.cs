@@ -40,7 +40,7 @@ namespace Eco.Mods.TechTree
         public override LocString DisplayNamePlural     => Localizer.DoStr("Corn Fritters");
 
         /// <summary>The amount of calories awarded for eating the food item.</summary>
-        public override float Calories                  => 500;
+        public override float Calories                  => 750;
         /// <summary>The nutritional value of the food item.</summary>
         public override Nutrients Nutrition             => new Nutrients() { Carbs = 13, Fat = 22, Protein = 4, Vitamins = 8};
 
