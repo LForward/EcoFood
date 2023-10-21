@@ -105,7 +105,7 @@ Just a slight adjustment since the recipe was too cheap
 > 
 > Reduced Simply Syrup ingredient from 4 to 2
 
-Similar to Crimson Salad, making reducing some ingredients but keeping the fruit salads to keep them "sweat".
+Similar to Crimson Salad, reducing some ingredients but keeping the fruit salads to keep them "sweat".
 
 ### Wild Mix
 > Reduced Basic Salad ingredient from 2 to 1
