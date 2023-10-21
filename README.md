@@ -43,6 +43,13 @@ Was probably one of the worst recipes but changes to calories and wild mix shoul
 
 Bringing this recipe in line with other sushi-type dishes.
 
+### Kelpy Crab Roll
+> Increased Kelp ingredient from 2 to 4
+
+> Increased Crab Carcass ingredient from 1 to 2
+
+Making this dish a little more expensive as it was overperforming.
+
 ### Pineapple Friend Rice
 > Increased Calorie reward from 720 to 800
 > 
@@ -58,6 +65,25 @@ Slight adjustments to make it more viable.
 > Reduced Infused Oil ingredient from 2 to 1
 
 Increasing calorie reward while decreasing Infused Oil to make it a possible option for sub 50 meat.
+
+### Seeded Camas Roll
+> Reduced Calorie reward from 1400 to 1050
+
+> Increased Camas Paste ingredient from 2 to 8
+
+> Increased Fiddlehead ingredient from 2 to 8
+
+> Increased Kelp ingredient from 2 to 4
+
+> Increased Output from 1 to 2
+
+Rebalancing this dominant dish by increasing the camas and fiddleheads input while making it output 2 items same as all other sushi-type dishes.
+
+### Spiky Roll
+
+> Increased Urchin ingredient from 2 to 4
+
+Just a slight adjustment since the recipe was too cheap
 
 ### Sweet Salad
 > Reduced Basic Salad ingredient from 2 to 1
@@ -76,7 +102,22 @@ Reduced ingredients to make this a good sub 50 dish in comparison to advanced ba
 
 ## Advanced Baking
 
-Adjusting all pizza recipes slightly to bring them more in line with the average advanced cooking food.
+### Bearclaw
+> Increased Pastry Dough ingredient from 1 to 2
+
+> Increased Sugar ingredient from 4 to 6
+
+### Fruit Tart
+> Increased Pastry Dough ingredient from 1 to 2
+
+> Increased Fruit ingredient from 4 to 8
+
+### Pirozhok
+> Increased Pastry Dough ingredient from 1 to 2
+
+> Increased Fungi ingredient from 2 to 4
+
+Base ingredients of advanced baking starter recipes increased to make them less overpowered as fillers.
 
 ### Fantastic Forest Pizza
 > Reduced Sun Cheese ingredient from 4 to 3
@@ -89,3 +130,5 @@ Adjusting all pizza recipes slightly to bring them more in line with the average
 
 ### Tasty Tropical  Pizza
 > Reduced Sun Cheese ingredient from 4 to 3
+
+Adjusting all pizza recipes slightly to bring them more in line with the average advanced cooking food.
