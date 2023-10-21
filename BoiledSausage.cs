@@ -40,7 +40,7 @@ namespace Eco.Mods.TechTree
         /// <summary>The amount of calories awarded for eating the food item.</summary>
         public override float Calories                  => 600;
         /// <summary>The nutritional value of the food item.</summary>
-        public override Nutrients Nutrition             => new Nutrients() { Carbs = 0, Fat = 22, Protein = 27, Vitamins = 0};
+        public override Nutrients Nutrition             => new Nutrients() { Carbs = 0, Fat = 20, Protein = 25, Vitamins = 0};
 
         /// <summary>Defines the default time it takes for this item to spoil. This value can be modified by the inventory this item currently resides in.</summary>
         protected override float BaseShelfLife            => (float)TimeUtil.HoursToSeconds(72);
