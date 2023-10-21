@@ -7,7 +7,6 @@ Full changelog below:
 ## Advanced Cooking
 
 ### Agouti Enchiladas
-
 > Reduced Sun Cheese ingredient from 4 to 2
 
 Adjusting Sun Cheese since this is a very complex recipe with milling and butchery products that was very expensive to make beforehand.
@@ -20,6 +19,22 @@ Adjusting Sun Cheese since this is a very complex recipe with milling and butche
 > Reduced Infused Oil ingredient from 2 to 1
 
 Making it live up to his name of being supreme by making it the highest calorie food. It was previously one of the worst performing dishes.
+
+### Bison Chow Fun
+> Increased Bean Sprout ingredient from 2 to 4
+>
+> Increased Oil Ingredient from 2 to 4
+>
+> Reducled Calorie reward from 1450 to 1250
+
+Adjustments to this unique since it outputs 4 items.
+
+### Boiled Sausage
+> Reduced fat nutrient from 27 to 25
+
+> Reduced Protein nutrient from 22 to 20
+
+Adjusting the subtotal since the recipe itself is made from scrap meats only and made maintaining 50+ subtotal fairly easy.
 
 ### Corn Fritters
 > Increased Calorie reward from 500 to 750
