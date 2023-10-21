@@ -27,7 +27,7 @@ Making it live up to his name of being supreme by making it the highest calorie 
 >
 > Reducled Calorie reward from 1450 to 1250
 
-Adjustments to this unique since it outputs 4 items.
+Adjustments to this unique recipe since it outputs 4 items.
 
 ### Boiled Sausage
 > Reduced fat nutrient from 27 to 25
