@@ -71,7 +71,7 @@ namespace Eco.Mods.TechTree
                 ingredients: new List<IngredientElement>
                 {
                     new IngredientElement(typeof(BoiledRiceItem), 2, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
-                    new IngredientElement(typeof(UrchinItem), 2, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
+                    new IngredientElement(typeof(UrchinItem), 4, typeof(AdvancedCookingSkill), typeof(AdvancedCookingLavishResourcesTalent)),
                 },
 
                 // Define our recipe output items.
