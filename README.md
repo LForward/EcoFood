@@ -1,6 +1,6 @@
 # EcoFood
 
-This repository was made to adjust some endgame food recipes that were previously underwhelming to craft. It aims to bring them in line with other food depending on their nutrition and subtotal. It won't make them the best options, just more viable.
+This repository was made to adjust endgame food recipes that were previously either too cheap or too expensive to craft. It aims to bring them in line with other food depending on their nutrition and subtotal. It allows more food options and combinations to be viable.
 Full changelog below:
 
 
